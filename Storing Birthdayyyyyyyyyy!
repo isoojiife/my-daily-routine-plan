@@ -1,0 +1,21 @@
+#activity1
+name = "Ethan"
+birthday = "October 10th"
+print (name)
+print (birthday)
+name = "Noah"
+birthday = "January 1st"
+print (name)
+print (birthday)
+name = "Liam"
+birthday = "March 15th"
+print (name)
+print (birthday)
+name = "Sam"
+birthday = "July 4th"
+print (name)
+print (birthday)
+name = "Christian"
+birthday = "January 9th"
+print (name)
+print (birthday)
